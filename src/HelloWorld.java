@@ -6,6 +6,6 @@ public class HelloWorld {
         System.out.println("Conflicts:master");
         System.out.println("Conflicts:hot-fix");
         System.out.println("github push operation");
-
+        System.out.println("github pull operation");
     }
 }
